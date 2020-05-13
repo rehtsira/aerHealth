@@ -1,14 +1,14 @@
 # <div alignt="center">aerHealth</div>
 C# Application utilizing a SQL Database for viewing mock patient information. Also contains a login authentication system that hashes passwords in the database in SHA-1
 
-![aerHealth](https://github.com/rehtsira/aerHealth/tree/master/img/aerHealth.gif)
+![aerHealth](https://github.com/rehtsira/aerHealth/blob/master/img/aerHealth.gif)
 
-![Login](https://github.com/rehtsira/aerHealth/tree/master/img/Login.PNG)
+![Login](https://github.com/rehtsira/aerHealth/blob/master/img/Login.PNG)
 
-![Login2](https://github.com/rehtsira/aerHealth/tree/master/img/Login2.PNG)
+![Login2](https://github.com/rehtsira/aerHealth/blob/master/img/Login2.PNG)
 
-![Register](https://github.com/rehtsira/aerHealth/tree/master/img/Register.PNG)
+![Register](https://github.com/rehtsira/aerHealth/blob/master/img/Register.PNG)
 
-![HashedPasswords](https://github.com/rehtsira/aerHealth/tree/master/img/HashedPasswords.PNG)
+![HashedPasswords](https://github.com/rehtsira/aerHealth/blob/master/img/HashedPasswords.PNG)
 
-![PhysicianUI](https://github.com/rehtsira/aerHealth/tree/master/img/PhysicianUI.PNG)
+![PhysicianUI](https://github.com/rehtsira/aerHealth/blob/master/img/PhysicianUI.PNG)
